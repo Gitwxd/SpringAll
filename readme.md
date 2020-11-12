@@ -100,3 +100,5 @@
 2. [深入学习Spring Bean生命周期](https://mrbird.cc/Spring-Bean-Lifecycle.html)
 
 持续更新中...
+
+点赞
